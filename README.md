@@ -9,7 +9,7 @@ Faça o download do projeto FitAPP pelo link abaixo:
 
 🔗 [Clique aqui para baixar via MediaFire](https://www.mediafire.com/file/tu058rso43nm8qm/bioup.rar/file)
 
-🔗 [Clique aqui para baixar via MediaFire FitApp1.0]([https://www.mediafire.com/file/tu058rso43nm8qm/bioup.rar/file](https://www.mediafire.com/file/sdes419xnosq2qb/FitAPP_1.0.apk/file))
+🔗 [Clique aqui para baixar via MediaFire FitApp1.0]([https://www.mediafire.com/file/tu058rso43nm8qm/bioup.rar/file](https://www.mediafire.com/file/sdes419xnosq2qb/FitAPP_1.0.apk/file)) https://www.mediafire.com/file/sdes419xnosq2qb/FitAPP_1.0.apk/file
 
 🔗 [Clique aqui para baixar via MediaFire FitApp2.0]([https://www.mediafire.com/file/tu058rso43nm8qm/bioup.rar/file](https://www.mediafire.com/file/dbkplo6xtg1m5x3/FitApp_2.0.apk/file))
 
