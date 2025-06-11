@@ -7,10 +7,10 @@ Este projeto é um aplicativo móvel de monitoramento de saúde, focado em indic
 📥 **Link para download do projeto**  
 Faça o download do projeto FitAPP pelo link abaixo:
 
-🔗 [Clique aqui para baixar via MediaFire](https://www.mediafire.com/file/tu058rso43nm8qm/bioup.rar/file)
+🔗Projeto [Clique aqui para baixar via MediaFire](https://www.mediafire.com/file/tu058rso43nm8qm/bioup.rar/file)
 
-- 📥 **[Download FitAPP v1.0](https://www.mediafire.com/file/sdes419xnosq2qb/FitAPP_1.0.apk/file)**  
-- 📥 **[Download FitAPP v2.0](https://www.mediafire.com/file/dbkplo6xtg1m5x3/FitApp_2.0.apk/file)**  
+- 📥 **APK1[Download FitAPP v1.0](https://www.mediafire.com/file/sdes419xnosq2qb/FitAPP_1.0.apk/file)**  
+- 📥 **APK2[Download FitAPP v2.0](https://www.mediafire.com/file/dbkplo6xtg1m5x3/FitApp_2.0.apk/file)**  
 
 ---
 
